@@ -1,0 +1,767 @@
+[
+  {
+    "table": "arrival",
+    "flightTimeAdj": "09:38",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV1134",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4001",
+    "cityName": "Puebla",
+    "terminal": "C",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:13",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 676",
+    "cityName": "Guadalajara",
+    "terminal": "A",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:17",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4163",
+    "cityName": "Veracruz",
+    "terminal": "C",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:22",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV 611",
+    "cityName": "Houston",
+    "terminal": "C",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:29",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 912",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:30",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_american_airlines.png\">",
+    "flightNumber": "AAL3515",
+    "cityName": "Dallas",
+    "terminal": "A",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:39",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV3192",
+    "cityName": "Guadalajara",
+    "terminal": "A",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:50",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_tar_aerolineas.png\">",
+    "flightNumber": "LCT 764",
+    "cityName": "Queretaro",
+    "terminal": "B",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "10:51",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_tar_aerolineas.png\">",
+    "flightNumber": "LCT 442",
+    "cityName": "Aguascalientes",
+    "terminal": "B",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "11:13",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 231",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "11:15",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4281",
+    "cityName": "Merida",
+    "terminal": "C",
+    "status": "ATERRIZO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "11:54",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL6256",
+    "cityName": "Houston",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "12:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV 671",
+    "cityName": "San Antonio",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "12:12",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_delta.png\">",
+    "flightNumber": "DAL1929",
+    "cityName": "Atlanta",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "12:30",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV2204",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "12:36",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_american_airlines.png\">",
+    "flightNumber": "AAL3701",
+    "cityName": "Dallas",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "12:37",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 920",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "13:20",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL5292",
+    "cityName": "Chicago",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "13:25",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4081",
+    "cityName": "Tijuana",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "13:47",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 186",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "13:50",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_tar_aerolineas.png\">",
+    "flightNumber": "LCT7040",
+    "cityName": "None",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "14:03",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL6297",
+    "cityName": "Houston",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "14:25",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV2178",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "14:43",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 928",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "14:45",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4341",
+    "cityName": "Pto. Vallarta",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:06",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 197",
+    "cityName": "Pto. Vallarta",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:15",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV3194",
+    "cityName": "Guadalajara",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:18",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 213",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:25",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4129",
+    "cityName": "Huatulco",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV1130",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:40",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4023",
+    "cityName": "Mazatlan",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:41",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 932",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "15:47",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 512",
+    "cityName": "Tijuana",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "16:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromar.png\">",
+    "flightNumber": "TAO 844",
+    "cityName": "Aguascalientes",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "16:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL6117",
+    "cityName": "Houston",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "16:05",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_magnicharter.png\">",
+    "flightNumber": "GMT 162",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "16:10",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4053",
+    "cityName": "Acapulco",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "16:15",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV 235",
+    "cityName": "Harlingen",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "16:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_american_airlines.png\">",
+    "flightNumber": "AAL1742",
+    "cityName": "Dallas",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "arrival",
+    "flightTimeAdj": "17:19",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 229",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "09:42",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 212",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "DEMORADO 09:42"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "09:47",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 915",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "CERRADO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "10:01",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_magnicharter.png\">",
+    "flightNumber": "GMT 125",
+    "cityName": "Pto. Vallarta",
+    "terminal": "A",
+    "status": "CERRADO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "10:30",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4340",
+    "cityName": "Pto. Vallarta",
+    "terminal": "C",
+    "status": "CERRADO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "10:50",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4128",
+    "cityName": "Huatulco",
+    "terminal": "C",
+    "status": "CERRADO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "10:53",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_magnicharter.png\">",
+    "flightNumber": "GMT 161",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "CERRADO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:10",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_tar_aerolineas.png\">",
+    "flightNumber": "LCT 610",
+    "cityName": "Tampico",
+    "terminal": "B",
+    "status": "VERIFICANDO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:18",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_american_airlines.png\">",
+    "flightNumber": "AAL3515",
+    "cityName": "Dallas",
+    "terminal": "A",
+    "status": "VERIFICANDO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:30",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV3193",
+    "cityName": "Guadalajara",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:31",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 196",
+    "cityName": "Pto. Vallarta",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV1129",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:40",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_tar_aerolineas.png\">",
+    "flightNumber": "LCT4906",
+    "cityName": "None",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:40",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV 602",
+    "cityName": "Las Vegas",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:45",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 923",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:55",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4052",
+    "cityName": "Acapulco",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "11:56",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 228",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "12:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4022",
+    "cityName": "Mazatlan",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "12:40",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV2169",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "13:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV 684",
+    "cityName": "Dallas",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "13:15",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL6274",
+    "cityName": "Houston",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "13:16",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_american_airlines.png\">",
+    "flightNumber": "AAL3701",
+    "cityName": "Dallas",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "13:32",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_delta.png\">",
+    "flightNumber": "DAL1866",
+    "cityName": "Atlanta",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "13:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 931",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "13:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV 234",
+    "cityName": "Harlingen",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "14:15",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_tar_aerolineas.png\">",
+    "flightNumber": "LCT7041",
+    "cityName": "None",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "14:30",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL5387",
+    "cityName": "Chicago",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "14:30",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4076",
+    "cityName": "Oaxaca",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "14:32",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 187",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "14:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV2171",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "15:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL6026",
+    "cityName": "Houston",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "15:05",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV2179",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "15:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4316",
+    "cityName": "Chihuahua",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "15:36",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 181",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "15:42",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 939",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "15:55",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4118",
+    "cityName": "Hermosillo",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:05",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4206",
+    "cityName": "Queretaro",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:27",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 226",
+    "cityName": "Cancun",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:35",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV3195",
+    "cityName": "Guadalajara",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:37",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_volaris.png\">",
+    "flightNumber": "VOI 513",
+    "cityName": "Tijuana",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:40",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV1137",
+    "cityName": "Mexico City",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:42",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromexico.png\">",
+    "flightNumber": "AMX 943",
+    "cityName": "Mexico City",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "16:45",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_united.png\">",
+    "flightNumber": "UAL6175",
+    "cityName": "Houston",
+    "terminal": "A",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "17:00",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_aeromar.png\">",
+    "flightNumber": "TAO 854",
+    "cityName": "Mc Allen, TX",
+    "terminal": "B",
+    "status": "A TIEMPO"
+  },
+  {
+    "table": "departure",
+    "flightTimeAdj": "17:20",
+    "airlineAbbr": "<img height=\"100%\" width=\"auto\" src=\"/img/logo_viva_aerobus.png\">",
+    "flightNumber": "VIV4346",
+    "cityName": "Pto. Vallarta",
+    "terminal": "C",
+    "status": "A TIEMPO"
+  }
+]

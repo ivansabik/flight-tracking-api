@@ -1,0 +1,222 @@
+{
+  "status": true,
+  "api": true,
+  "flights": [
+    {
+      "uid": 581998,
+      "type": "arrivals",
+      "flightNumber": "W62357",
+      "trafficTypeCode": "PS",
+      "airlineCode": "WZZ",
+      "destinationCode": "DXB",
+      "aircraftCode": "32Q",
+      "flightStatusCode": "EST",
+      "originCode": "BUD",
+      "beltNumber": "3",
+      "gateNumber": null,
+      "trafficTypeName": "Passenger Scheduled",
+      "terminal": "2",
+      "fullName": "Wizzair",
+      "fullNameA": "ويز الهواء",
+      "lastChanged": 1644513002,
+      "scheduled": 1644513300,
+      "estimated": 1644514020,
+      "actual": null,
+      "codeShare": [],
+      "lang": {
+        "en": {
+          "airlineName": "Wizzair",
+          "originName": "Budapest Ferenc Liszt Internatio",
+          "destinationName": "Dubai Airport",
+          "flightStatusText": "Estimated"
+        },
+        "ae": {
+          "airlineName": "ويز الهواء",
+          "originName": "بودابست",
+          "destinationName": "دبي",
+          "flightStatusText": "قدرت"
+        }
+      }
+    },
+    {
+      "uid": 581999,
+      "type": "arrivals",
+      "flightNumber": "QR1018",
+      "trafficTypeCode": "PS",
+      "airlineCode": "QTR",
+      "destinationCode": "DXB",
+      "aircraftCode": "77W",
+      "flightStatusCode": "LND",
+      "originCode": "DOH",
+      "beltNumber": "02",
+      "gateNumber": null,
+      "trafficTypeName": "Passenger Scheduled",
+      "terminal": "1",
+      "fullName": "Qatar Airways",
+      "fullNameA": "القطرية‎",
+      "lastChanged": 1644512580,
+      "scheduled": 1644513300,
+      "estimated": 1644512538,
+      "actual": 1644512118,
+      "codeShare": [],
+      "lang": {
+        "en": {
+          "airlineName": "Qatar Airways",
+          "originName": "Hamad International Airport",
+          "destinationName": "Dubai Airport",
+          "flightStatusText": "Landed"
+        },
+        "ae": {
+          "airlineName": "القطرية‎",
+          "originName": "الدوحـة",
+          "destinationName": "دبي",
+          "flightStatusText": "هبطت"
+        }
+      }
+    },
+    {
+      "uid": 582000,
+      "type": "arrivals",
+      "flightNumber": "EK2810",
+      "trafficTypeCode": "PS",
+      "airlineCode": "UAE",
+      "destinationCode": "DXB",
+      "aircraftCode": "77W",
+      "flightStatusCode": "LND",
+      "originCode": "MED",
+      "beltNumber": "301",
+      "gateNumber": null,
+      "trafficTypeName": "Passenger Scheduled",
+      "terminal": "3",
+      "fullName": "Emirates",
+      "fullNameA": "طيران الإمارات",
+      "lastChanged": 1644512852,
+      "scheduled": 1644513600,
+      "estimated": 1644512880,
+      "actual": 1644512564,
+      "codeShare": [],
+      "lang": {
+        "en": {
+          "airlineName": "Emirates",
+          "originName": "Prince Mohammad Bin Abdulaziz In",
+          "destinationName": "Dubai Airport",
+          "flightStatusText": "Landed"
+        },
+        "ae": {
+          "airlineName": "طيران الإمارات",
+          "originName": "المـديـنـة المنورة",
+          "destinationName": "دبي",
+          "flightStatusText": "هبطت"
+        }
+      }
+    },
+    {
+      "uid": 582004,
+      "type": "arrivals",
+      "flightNumber": "ME428",
+      "trafficTypeCode": "PS",
+      "airlineCode": "MEA",
+      "destinationCode": "DXB",
+      "aircraftCode": "332",
+      "flightStatusCode": "EST",
+      "originCode": "BEY",
+      "beltNumber": "08",
+      "gateNumber": null,
+      "trafficTypeName": "Passenger Scheduled",
+      "terminal": "1",
+      "fullName": "Middle East Airlines",
+      "fullNameA": "طيران الشرق الأوسط - لبنان",
+      "lastChanged": 1644513002,
+      "scheduled": 1644513900,
+      "estimated": 1644514140,
+      "actual": null,
+      "codeShare": [],
+      "lang": {
+        "en": {
+          "airlineName": "Middle East Airlines",
+          "originName": "Beirut-Rafic Hariri Internationa",
+          "destinationName": "Dubai Airport",
+          "flightStatusText": "Estimated"
+        },
+        "ae": {
+          "airlineName": "طيران الشرق الأوسط - لبنان",
+          "originName": "بيروت",
+          "destinationName": "دبي",
+          "flightStatusText": "قدرت"
+        }
+      }
+    },
+    {
+      "uid": 582003,
+      "type": "arrivals",
+      "flightNumber": "W63265",
+      "trafficTypeCode": "PS",
+      "airlineCode": "WZZ",
+      "destinationCode": "DXB",
+      "aircraftCode": "32Q",
+      "flightStatusCode": "EST",
+      "originCode": "OTP",
+      "beltNumber": "6",
+      "gateNumber": null,
+      "trafficTypeName": "Passenger Scheduled",
+      "terminal": "2",
+      "fullName": "Wizzair",
+      "fullNameA": "ويز الهواء",
+      "lastChanged": 1644513002,
+      "scheduled": 1644513900,
+      "estimated": 1644513259,
+      "actual": 1644512719,
+      "codeShare": [],
+      "lang": {
+        "en": {
+          "airlineName": "Wizzair",
+          "originName": "Bucharest Henri Coanda Internati",
+          "destinationName": "Dubai Airport",
+          "flightStatusText": "Estimated"
+        },
+        "ae": {
+          "airlineName": "ويز الهواء",
+          "originName": "بوخارست",
+          "destinationName": "دبي",
+          "flightStatusText": "قدرت"
+        }
+      }
+    },
+    {
+      "uid": 582002,
+      "type": "arrivals",
+      "flightNumber": "FZ1758",
+      "trafficTypeCode": "PS",
+      "airlineCode": "FDB",
+      "destinationCode": "DXB",
+      "aircraftCode": "7M8",
+      "flightStatusCode": "LND",
+      "originCode": "SOF",
+      "beltNumber": "311",
+      "gateNumber": null,
+      "trafficTypeName": "Passenger Scheduled",
+      "terminal": "3",
+      "fullName": "Flydubai",
+      "fullNameA": "فلاي دبي",
+      "lastChanged": 1644512580,
+      "scheduled": 1644513900,
+      "estimated": 1644512670,
+      "actual": 1644512250,
+      "codeShare": [],
+      "lang": {
+        "en": {
+          "airlineName": "Flydubai",
+          "originName": "Sofia Airport",
+          "destinationName": "Dubai Airport",
+          "flightStatusText": "Landed"
+        },
+        "ae": {
+          "airlineName": "فلاي دبي",
+          "originName": "صوفيا",
+          "destinationName": "دبي",
+          "flightStatusText": "هبطت"
+        }
+      }
+    }
+  ]
+}
